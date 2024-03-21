@@ -1,0 +1,6 @@
+main: me.gabri3lx35.McPluginDefault
+name: McPluginDefault
+version: 1.0
+author: djloulou91
+api-version: 1.17
+description: A default starter template for a Minecraft Plugin with Spigot
